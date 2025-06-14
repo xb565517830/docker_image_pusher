@@ -1,6 +1,6 @@
 nginx
 redis:6-alpine
-Dify
+##Dify##
 langgenius/dify-api
 langgenius/dify-web:1.4.1
 postgres:15-alpine
